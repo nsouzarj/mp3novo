@@ -195,6 +195,7 @@ class _playMusic extends State<Player> {
     result = await player.pause();
     if (result == 1) {
       // success
+      //Apenas um teste
     }
   }
 
